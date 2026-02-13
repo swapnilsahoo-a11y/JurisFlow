@@ -1,0 +1,7 @@
+{
+  "name": "JurisFlow - Legal Case Management",
+  "description": "A professional-grade legal case management system for lawyers featuring case tracking, digital calendar, client bandwidth Gantt charts, and voice-to-text dictation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
